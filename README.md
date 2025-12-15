@@ -1,41 +1,33 @@
-# OpenSoftware
-
-**OpenSoftware** is a modern, lightweight, and free software platform designed to provide safe and verified applications for developers and users alike.
-
+<p align="center">
+  <img src="images/Banner.png" alt="Banner" width="400">
+</p>
+Add some fun to your idle computer.
 ---
+# What is Katvok? 🐢
 
-## Features
+Katvok is a transparent desktop overlay application that renders floating images across your screen with smooth, space-like motion.
 
-- **Free & Verified**: Every file is verified via VirusTotal to ensure safety and reliability.
-- **Modern UI**: Clean, dark-themed interface with smooth animations and rounded corners.
-- **Cross-Platform**: Works on any modern browser or desktop system.
-- **Developer-Friendly**: Easily share your code, scripts, or tools with the community.
-- **Version Info**: View detailed version information like a modern Winver tool.
+Running silently above all windows, Katvok creates an ambient visual layer without blocking mouse or keyboard interaction, allowing you to continue using your system normally while enjoying subtle animated effects.
 
+Designed for stability and low resource usage, Katvok is ideal for desktop customization, display machines, presentations, and creative visual setups.
 ---
+# Features ✨
 
-## Contribute
-
-Want to share your favorite files, scripts, or games?  
-
-Click **[Share!](mailto:coder4819@gmail.com?subject=I want to contribute to OpenSoftware)** to submit your contribution via email.
-
+1.Transparent, always-on-top desktop overlay
+2.Smooth floating motion with random rotation and size
+3.Images bounce naturally within the visible desktop area
+4.Does not interfere with mouse or keyboard input
+5.Lightweight and performance-friendly
+6.Built with Electron for cross-platform support
 ---
-
-## Links
-
-- [GitHub Repository](https://github.com/xStrikea/xStrikea.github.io/)  
-- [Official Website](https://xStrikea.github.io/)  
-- [Discord Community](https://discord.gg/3hpX4e4xB2)
-
+# Screenshot 💻
+<p align="center">
+  <img src="images/Screenshot.png" alt="Banner" width="400">
+</p>
 ---
-
-## Contact
-
-For inquiries or support, contact: **coder4819@gmail.com**
-
+# Controls ⌨
+1.Ctrl + S
+- Exit
 ---
-
-## License
-
-OpenSoftware is licensed under the **MIT** license. You are free to use, modify, and distribute the software under the terms of the license.
+ # Contact me 📱
+ coder4819@gmail.com
