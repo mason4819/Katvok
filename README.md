@@ -40,7 +40,7 @@ Designed for stability and low resource usage, Katvok is ideal for desktop custo
 ---
 
 # Donwload 🔽
-!(here)[https://github.com/mason4819/mason4819.github.io/releases]
+https://github.com/mason4819/mason4819.github.io/releases
 
 ---
 
