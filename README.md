@@ -34,8 +34,8 @@ Designed for stability and low resource usage, Katvok is ideal for desktop custo
 ---
 
 # Controls ⌨
-1.Ctrl + S
-- Exit
+1.Ctrl + S - Exit
+2.Ctrl + A - Control Menu
 
 ---
 
